@@ -1,10 +1,10 @@
  <h1>OPIO-Space</h1>
-- 👋 Hi, I’m @CodeZ-Opio              
-- 👀 I’m interested in Coding/Web
-- 🌱 I’m currently learning:'JS'
-- 💞️ I’m looking to collaborate on Nothing
-- 📫 How to reach me : do not reach only 'see'
-- 😄 Pronouns: he,tu,me,I
+- 👋 Hi, I’m @CodeZ-Opio<br>              
+- 👀 I’m interested in Coding/Web<br>
+- 🌱 I’m currently learning:'JS'<br>
+- 💞️ I’m looking to collaborate on Nothing<br>
+- 📫 How to reach me : do not reach only 'see'<br>
+- 😄 Pronouns: he,tu,me,I<br>
 - ⚡ Fun fact: I am a School Student
 
 <!---
